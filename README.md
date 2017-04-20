@@ -7,3 +7,9 @@ If you want to change it you need to either edit main.cpp and change FPS value o
 Command line usage:
 
   txt2srt source_file output_file FPS
+  
+Downloads:
+  <ul>
+    <li><a>Windows</a></li>
+    <li><a href="https://drive.google.com/open?id=0B31pFY333N6pc0syWWRydjl5b0U">Linux</a></li>
+  </ul>
